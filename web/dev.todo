@@ -1,0 +1,5 @@
+- économie du select
+- try/catch/logs
+- si on fait pas de group by GROUP_CONCAT --> join côté client on risque de manquer qqch
+- id inexistant
+- id obfusqué
